@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   viewBox="0 0 8.4665 8.4665"
+   id="svg245"
+   sodipodi:docname="default-folder-open.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs249" />
+  <sodipodi:namedview
+     id="namedview247"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="9.8305085"
+     inkscape:cy="16.067797"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg245" />
+  <path
+     d="m1.7202 1.0586c-0.14699 0-0.19749 0.12381-0.26498 0.26431h-0.52896c-0.13249 0-0.13249 0.14211-0.13249 0.14211v3.0118c0 0.15772 0.11849 0.2853 0.26498 0.2853h6.3496c0.14649 0 0.26448-0.12758 0.26448-0.2853v-3.0118c0-0.14265-0.13249-0.14265-0.13249-0.14265h-3.7037c-0.077495-0.13404-0.11799-0.26431-0.26498-0.26431z"
+     fill="#e6e6e6"
+     stroke="#000"
+     stroke-opacity=".255"
+     stroke-width=".52916"
+     style="paint-order:markers stroke fill"
+     id="path237" />
+  <path
+     d="m1.7202 1.0586c-0.14699 0-0.19749 0.12381-0.26498 0.26431h-0.52896c-0.13249 0-0.13249 0.14211-0.13249 0.14211v3.0118c0 0.15772 0.11849 0.2853 0.26498 0.2853h6.3496c0.14649 0 0.26448-0.12758 0.26448-0.2853v-3.0118c0-0.14265-0.13249-0.14265-0.13249-0.14265h-3.7037c-0.077495-0.13404-0.11799-0.26431-0.26498-0.26431z"
+     fill="#fff"
+     style="paint-order:markers stroke fill"
+     id="path239" />
+  <path
+     d="m4.2335 3.1749c-0.20305 0-0.27557 0.31877-0.34199 0.52916h-3.4949c-0.132 0-0.132 0.13677-0.132 0.13677v3.431s0 0.13626 0.1325 0.13626h7.6728s0.132 0 0.132-0.13626v-3.9602c0-0.13677-0.132-0.13677-0.132-0.13677z"
+     fill="#5294e2"
+     stroke="#762c02"
+     stroke-opacity=".56078"
+     stroke-width=".52916"
+     style="paint-order:markers stroke fill"
+     id="path241" />
+  <path
+     d="m4.2335 3.1749c-0.20305 0-0.27557 0.31877-0.34199 0.52916h-3.4949c-0.132 0-0.132 0.13677-0.132 0.13677v3.431s0 0.13626 0.1325 0.13626h7.6728s0.132 0 0.132-0.13626v-3.9602c0-0.13677-0.132-0.13677-0.132-0.13677z"
+     fill="#fb8441"
+     style="paint-order:markers stroke fill;fill:#f9c470;fill-opacity:1"
+     id="path243" />
+</svg>

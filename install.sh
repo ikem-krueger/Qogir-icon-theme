@@ -15,7 +15,7 @@ CURSORS_SRC_DIR="$SRC_DIR/src/cursors/src"
 INDEX="$CURSORS_SRC_DIR/cursorSVG"
 
 THEME_NAME=Qogir
-THEME_VARIANTS=('' '-Manjaro' '-Ubuntu')
+THEME_VARIANTS=('' '-Manjaro' '-Ubuntu' '-Sand')
 COLOR_VARIANTS=('' '-Light' '-Dark')
 
 usage() {
@@ -23,7 +23,7 @@ usage() {
   printf "\n%s\n" "OPTIONS:"
   printf "  %-25s%s\n" "-d, --dest DIR" "Specify theme destination directory (Default: ${DEST_DIR})"
   printf "  %-25s%s\n" "-n, --name NAME" "Specify theme name (Default: ${THEME_NAME})"
-  printf "  %-25s%s\n" "-t, --theme VARIANT" "Specify theme primary color variant(s) [default|manjaro|ubuntu|all] (Default: all themes)"
+  printf "  %-25s%s\n" "-t, --theme VARIANT" "Specify theme primary color variant(s) [default|manjaro|ubuntu|sand|all] (Default: all themes)"
   printf "  %-25s%s\n" "-c, --color VARIANT" "Specify theme color variant(s) [standard|dark|all] (Default: all variants)"
   printf "  %-25s%s\n" "-h, --help" "Show this help"
 }
@@ -51,10 +51,6 @@ install() {
     cp -r "${SRC_DIR}/src/index.theme" "${THEME_DIR}"
   fi
 
-  if [[ ${color} != '-Light' ]]; then
-    cp -r "${SRC_DIR}/src/cursors/dist${theme}${color}/cursors" "${THEME_DIR}"
-  fi
-
   cd "${THEME_DIR}" || exit 1
   sed -i "s/${name}/${name}${theme}${color}/g" index.theme
 
@@ -77,8 +73,6 @@ install() {
     cp -r "${SRC_DIR}"/links/24/panel "${THEME_DIR}/24"
 
     cd "${dest}" || exit 1
-    ln -sf "../${name}${theme}/cursors" "${name}${theme}-Light/cursors"
-    ln -sf "../${name}${theme}/cursors_scalable" "${name}${theme}-Light/cursors_scalable"
     ln -sf "../${name}${theme}/scalable" "${name}${theme}-Light/scalable"
     ln -sf "../${name}${theme}/symbolic" "${name}${theme}-Light/symbolic"
     ln -sf "../${name}${theme}/32" "${name}${theme}-Light/32"
@@ -173,7 +167,12 @@ install_cursors_scalable() {
 
   local THEME_DIR="${dest}/${name}${theme}${color}"
 
+  ln -sf "../${name}${theme}/cursors" "${name}${theme}-Light/cursors"
+  ln -sf "../${name}${theme}/cursors_scalable" "${name}${theme}-Light/cursors_scalable"
+
   if [[ ${color} != '-Light' ]]; then
+    cp -r "${SRC_DIR}/src/cursors/dist${theme}${color}/cursors" "${THEME_DIR}"
+
     cp -rf "$CURSORS_SRC_DIR"/scalable "${THEME_DIR}"/cursors_scalable
     cp -rf "$CURSORS_SRC_DIR/svg${theme}${color}/${svgid}.svg" "${THEME_DIR}/cursors_scalable/${svgid}"
   fi
@@ -219,6 +218,10 @@ while [[ $# -gt 0 ]]; do
             ;;
           ubuntu)
             themes+=("${THEME_VARIANTS[2]}")
+            shift 1
+            ;;
+          sand)
+            themes+=("${THEME_VARIANTS[3]}")
             shift 1
             ;;
           all)
@@ -282,7 +285,7 @@ done
 
 make_cursors_svg
 
-for THEME in '' '-manjaro' '-ubuntu'; do
+for THEME in '' '-manjaro' '-ubuntu' '-sand'; do
   for COLOR in '' '-dark' '-light'; do
     if [[ "${THEME}" != '' || "${COLOR}" != '' ]] && [[ -d "${DEST_DIR}/${THEME_NAME}${THEME}${COLOR}" ]]; then
       rm -rf "${DEST_DIR}/${THEME_NAME}${THEME}${COLOR}"
@@ -295,6 +298,9 @@ for theme in "${themes[@]-${THEME_VARIANTS[@]}}"; do
   for color in "${colors[@]-${COLOR_VARIANTS[@]}}"; do
     install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${theme}" "${color}"
     for svgid in `cat $INDEX`; do
+      if [[ $theme = "-Sand" ]]; then
+        continue
+      fi
       install_cursors_scalable "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${theme}" "${color}" "${svgid}"
     done
   done

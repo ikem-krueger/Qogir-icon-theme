@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg2087"
+   sodipodi:docname="default-folder-video.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2089"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="19.661017"
+     inkscape:cy="32.135593"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2087" />
+  <defs
+     id="defs2069">
+    <linearGradient
+       id="c-3"
+       x1="-197.1"
+       x2="-196.91"
+       y1="217.68"
+       y2="219.37"
+       gradientTransform="rotate(-45 -338.07 -140.03)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         id="stop2064" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop2066" />
+    </linearGradient>
+    <linearGradient
+       id="c"
+       x1="-197.10001"
+       x2="-196.91"
+       y1="217.67999"
+       y2="219.36"
+       gradientTransform="matrix(0.70711651,-0.70711651,0.70711651,0.70711651,-20.879249,-277.17594)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         id="stop314" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop316" />
+    </linearGradient>
+  </defs>
+  <path
+     d="m3.175 2.381c-0.293 0-0.265 0.264-0.265 0.53h-1.058c-0.265 0-0.265 0-0.265 0.264v5.556c0 0.293 0.237 0.53 0.53 0.53h12.7a0.529 0.529 0 0 0 0.529-0.53v-5.556c0-0.265 0-0.265-0.265-0.265h-7.408c0-0.265 0.028-0.53-0.265-0.53z"
+     fill="#ffffff"
+     fill-opacity=".976"
+     stroke="#000000"
+     stroke-opacity=".268"
+     stroke-width=".529"
+     paint-order="markers stroke fill"
+     id="path2071" />
+  <path
+     d="m3.175 2.381c-0.293 0-0.265 0.264-0.265 0.53h-1.058c-0.265 0-0.265 0-0.265 0.264v5.556c0 0.293 0.237 0.53 0.53 0.53h12.7a0.529 0.529 0 0 0 0.529-0.53v-5.556c0-0.265 0-0.265-0.265-0.265h-7.408c0-0.265 0.028-0.53-0.265-0.53z"
+     fill="#ffffff"
+     fill-opacity=".976"
+     paint-order="markers stroke fill"
+     id="path2073" />
+  <path
+     d="m8.467 4.233c-0.293 0-0.382 0.276-0.53 0.53l-0.308 0.528h-6.835c-0.265 0-0.265 0.265-0.265 0.265v8.996c0 0.264 0.265 0.264 0.265 0.264h15.346c0.264 0 0.264-0.264 0.264-0.264v-10.054c0-0.265-0.264-0.265-0.264-0.265z"
+     fill="none"
+     stroke="#762c02"
+     stroke-opacity=".561"
+     stroke-width=".529"
+     paint-order="markers stroke fill"
+     id="path2075" />
+  <path
+     d="m 8.4669975,4.233 c -0.293,0 -0.382001,0.276 -0.530001,0.53 L 7.6289975,5.291 H 0.793998 c -0.265,0 -0.265,0.265 -0.265,0.265 v 8.996 c 0,0.264 0.265,0.264 0.265,0.264 h 15.345998 c 0.264,0 0.264,-0.264 0.264,-0.264 V 4.498 c 0,-0.265 -0.264,-0.265 -0.264,-0.265 z"
+     fill="#fb8441"
+     paint-order="markers stroke fill"
+     id="path2077"
+     style="fill:#f9c470;fill-opacity:1" />
+  <rect
+     x="3.44"
+     y="2.91"
+     width="3.704"
+     height=".529"
+     rx=".265"
+     ry=".265"
+     fill-opacity=".267"
+     paint-order="markers stroke fill"
+     id="rect2079" />
+  <path
+     d="M6.35 7.144V12.7h4.233V7.144zm.265.264h.264v.265h-.264zm.529 0H9.79V9.79H7.144zm2.91 0h.265v.265h-.265zm-3.44.53h.265v.264h-.264zm3.44 0h.265v.264h-.265zm-3.44.529h.265v.264h-.264zm3.44 0h.265v.264h-.265zm-3.44.529h.265v.264h-.264zm3.44 0h.265v.264h-.265zm-3.44.529h.265v.265h-.264zm3.44 0h.265v.265h-.265zm-3.44.53h.265v.264h-.264zm.53 0H9.79v2.38H7.144zm2.91 0h.265v.264h-.265zm-3.44.528h.265v.265h-.264zm3.44 0h.265v.265h-.265zm-3.44.53h.265v.264h-.264zm3.44 0h.265v.264h-.265zm-3.44.529h.265v.264h-.264zm3.44 0h.265v.264h-.265zm-3.44.529h.265v.264h-.264zm3.44 0h.265v.264h-.265z"
+     opacity=".3"
+     id="path2081" />
+  <path
+     d="M7.144 7.408V9.79H9.79V7.408zm0 2.646v2.381H9.79v-2.38z"
+     opacity=".15"
+     id="path2083" />
+  <path
+     d="m16.404 11.641-3.1744 3.1749h2.6458c0.29307 0 0.52864-0.23557 0.52864-0.52864z"
+     fill="url(#c-3)"
+     opacity=".1"
+     stroke-width=".26458"
+     id="path2085" />
+</svg>

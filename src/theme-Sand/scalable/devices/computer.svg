@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg349"
+   sodipodi:docname="computer.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs353">
+    <linearGradient
+       id="screen"
+       x1="4.2919754"
+       y1="11.649647"
+       x2="4.2919754"
+       y2="44.26866"
+       gradientTransform="scale(1.1649647,0.85839508)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         style="stop-color:#E0E0E0"
+         id="stop7" />
+      <!-- Gray 300 -->
+      <stop
+         offset="1"
+         style="stop-color:#f9f9f9;stop-opacity:1;"
+         id="stop9" />
+      <!-- Gray 400 -->
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview351"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="8.2711864"
+     inkscape:cy="32.135593"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg349" />
+  <path
+     d="m 25.902,43.333 c -0.776,0 -1.4,0.596 -1.4,1.334 v 10.5 l -3.6,0.333 c -0.776,0 -1.4,0.596 -1.4,1.334 V 58.5 h 25 v -1.666 c 0,-0.738 -0.625,-1.334 -1.4,-1.334 l -3.6,-0.334 V 44.667 c 0,-0.738 -0.625,-1.334 -1.4,-1.334 z"
+     fill="none"
+     stroke="#4e427f"
+     stroke-opacity="0.291"
+     id="path339" />
+  <path
+     d="m 25.902,43.834 c -0.52,0 -0.9,0.378 -0.9,0.834 V 55.623 L 20.924,56 h -0.022 c -0.52,0 -0.9,0.378 -0.9,0.834 V 58 h 24 V 56.834 C 44.002,56.378 43.621,56 43.102,56 H 43.078 L 39.002,55.623 V 44.668 c 0,-0.456 -0.38,-0.834 -0.9,-0.834 z"
+     fill="#fafafa"
+     id="path341" />
+  <rect
+     x="1.5000061"
+     y="5.4999995"
+     width="61"
+     height="40"
+     rx="1.4"
+     ry="1.3329999"
+     fill="#454157"
+     stroke="#262531"
+     stroke-dashoffset="0.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-opacity="0.784"
+     id="rect343" />
+  <path
+     d="M 4,8 H 60 V 43 H 4 Z"
+     fill="#9677e2"
+     fill-rule="evenodd"
+     id="path345"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+</svg>
