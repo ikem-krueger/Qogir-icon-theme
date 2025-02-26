@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="22.372881"
-     inkscape:cy="41.288136"
+     inkscape:cx="11.254237"
+     inkscape:cy="45.491525"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
      inkscape:window-x="0"
@@ -33,7 +33,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2371" />
   <g
-     id="g6285">
+     id="g1001">
     <rect
        width="13.758"
        height="10.054"
@@ -48,7 +48,7 @@
        rx="0.26499999"
        ry="0.26499999"
        id="rect2361"
-       style="paint-order:markers stroke fill;fill:#e0e0e0;fill-opacity:1;stroke:#929292;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:0.266667;paint-order:markers stroke fill;font-variation-settings:normal;opacity:1;vector-effect:none;stroke-width:0.529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
     <rect
        width="13.758"
        height="10.054"
@@ -58,7 +58,7 @@
        rx="0.26499999"
        ry="0.26499999"
        id="rect2363"
-       style="fill:#e0e0e0;fill-opacity:1;paint-order:markers stroke fill" />
+       style="fill:#f9f9f9;fill-opacity:1;paint-order:markers stroke fill;font-variation-settings:normal;opacity:1;vector-effect:none;stroke-width:0.264578;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
     <rect
        width="7.1440001"
        height="5.2919998"
