@@ -44,7 +44,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="20.85965"
-     inkscape:cx="19.583262"
+     inkscape:cx="15.532379"
      inkscape:cy="14.693439"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
@@ -53,7 +53,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg30" />
   <g
-     id="g1945">
+     id="g1027">
     <rect
        x="-8.2030001"
        y="-7.4089999"
@@ -64,7 +64,7 @@
        stroke="#321870"
        stroke-opacity="0.78431"
        stroke-width="0.529"
-       style="paint-order:markers stroke fill;font-variation-settings:normal;opacity:1;vector-effect:none;fill:#474355;fill-opacity:1;stroke:#000000;stroke-width:0.26459375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.13229688;stroke-opacity:0.26666668;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       style="font-variation-settings:normal;vector-effect:none;fill:#474355;fill-opacity:1;stroke:#000000;stroke-width:0.264594;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.132297;stroke-opacity:0.266667;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
        id="rect2"
        transform="scale(-1)" />
     <rect
@@ -74,7 +74,7 @@
        height="6.3499999"
        ry="0.138"
        fill="#9677e2"
-       style="paint-order:markers stroke fill;font-variation-settings:normal;opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke-width:0.26459375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       style="font-variation-settings:normal;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke-width:0.264594;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
        id="rect4"
        transform="scale(-1)" />
     <path
@@ -89,7 +89,7 @@
        height="0.26499999"
        ry="0.132"
        opacity="0.35"
-       style="paint-order:stroke markers fill"
+       style="paint-order:stroke markers fill;font-variation-settings:normal;opacity:0.8;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        id="rect8"
        transform="scale(-1)" />
     <rect
@@ -102,16 +102,6 @@
        opacity="0.8"
        style="paint-order:stroke markers fill"
        id="rect12"
-       transform="scale(-1)" />
-    <rect
-       x="-1.8530004"
-       y="-7.145"
-       width="0.52899998"
-       height="0.26499999"
-       ry="0.132"
-       opacity="0.35"
-       style="paint-order:stroke markers fill"
-       id="rect14"
        transform="scale(-1)" />
   </g>
 </svg>

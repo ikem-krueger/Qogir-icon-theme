@@ -23,72 +23,65 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="13.906433"
-     inkscape:cx="13.698696"
-     inkscape:cy="28.296257"
+     inkscape:zoom="11.112626"
+     inkscape:cx="44.723902"
+     inkscape:cy="48.458393"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2367" />
-  <rect
-     x="-24.605499"
-     y="-21.960003"
-     width="23.812"
-     height="18.256001"
-     ry="0.39750001"
-     fill="none"
-     stroke="#321870"
-     stroke-opacity="0.78431"
-     stroke-width="0.5295"
-     style="paint-order:markers stroke fill;stroke:#000000;stroke-opacity:0.26666668"
-     id="rect2337"
-     transform="scale(-1)" />
-  <rect
-     x="-24.605499"
-     y="-21.960003"
-     width="23.812"
-     height="18.256001"
-     ry="0.39750001"
-     fill="#9677e2"
-     style="stroke-width:0.26458333;paint-order:markers stroke fill;fill:#f9f9f9;fill-opacity:1;font-variation-settings:normal;opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-     id="rect2339"
-     transform="scale(-1)" />
-  <path
-     d="m 24.208,21.960002 a 0.396,0.396 0 0 0 0.3975,-0.3975 v -1.1895 H 0.7935 v 1.1895 a 0.396,0.396 0 0 0 0.396,0.3975 z"
-     opacity="0.35"
-     style="stroke-width:1.0005;paint-order:stroke markers fill"
-     id="path2341" />
-  <rect
-     x="-23.018499"
-     y="-21.430502"
-     width="1.587"
-     height="0.52950001"
-     ry="0.264"
-     opacity="0.35"
-     style="stroke-width:1.0005;paint-order:stroke markers fill"
-     id="rect2343"
-     transform="scale(-1)" />
-  <rect
-     x="-2.6450002"
-     y="-21.430502"
-     width="0.52950001"
-     height="0.52950001"
-     ry="0.264"
-     fill="#ffffff"
-     opacity="0.8"
-     style="stroke-width:1.0005;paint-order:stroke markers fill"
-     id="rect2347"
-     transform="scale(-1)" />
-  <rect
-     x="-4.4969997"
-     y="-21.430502"
-     width="1.323"
-     height="0.52950001"
-     ry="0.264"
-     opacity="0.35"
-     style="stroke-width:1.0005;paint-order:stroke markers fill"
-     id="rect2349"
-     transform="scale(-1)" />
+  <g
+     id="g312">
+    <rect
+       x="-24.605499"
+       y="-21.960003"
+       width="23.812"
+       height="18.256001"
+       ry="0.39750001"
+       fill="none"
+       stroke="#321870"
+       stroke-opacity="0.78431"
+       stroke-width="0.5295"
+       style="stroke:#000000;stroke-opacity:0.266667;paint-order:markers stroke fill"
+       id="rect2337"
+       transform="scale(-1)" />
+    <rect
+       x="-24.605499"
+       y="-21.960003"
+       width="23.812"
+       height="18.256001"
+       ry="0.39750001"
+       fill="#9677e2"
+       style="font-variation-settings:normal;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+       id="rect2339"
+       transform="scale(-1)" />
+    <path
+       d="m 24.208,21.960002 a 0.396,0.396 0 0 0 0.3975,-0.3975 v -1.1895 H 0.7935 v 1.1895 a 0.396,0.396 0 0 0 0.396,0.3975 z"
+       opacity="0.35"
+       style="stroke-width:1.0005;paint-order:stroke markers fill"
+       id="path2341" />
+    <rect
+       x="-23.018499"
+       y="-21.430502"
+       width="1.587"
+       height="0.52950001"
+       ry="0.264"
+       opacity="0.35"
+       style="font-variation-settings:normal;opacity:0.8;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:1.0005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect2343"
+       transform="scale(-1)" />
+    <rect
+       x="-2.6450002"
+       y="-21.430502"
+       width="0.52950001"
+       height="0.52950001"
+       ry="0.264"
+       fill="#ffffff"
+       opacity="0.8"
+       style="stroke-width:1.0005;paint-order:stroke markers fill"
+       id="rect2347"
+       transform="scale(-1)" />
+  </g>
 </svg>
